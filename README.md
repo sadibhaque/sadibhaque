@@ -17,8 +17,8 @@ I continuously explore emerging tools and frameworks to stay ahead in the tech l
 
 ## Current Activities
 - Exploring **Next.js**
-- Working on a **tourism website**
-- Learning **AI-driven design and coding tools** to improve workflow
+- Exploring **Typescript**
+- Learning **AI-driven design and coding tools** to improve workflow.
 
 ---
 
