@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://your-banner-image-link-here" alt="Banner" style="width:100%;"/>
+<img src="https://your-banner-image-link-here](https://www.canva.com/design/DAGvfHkKZ08/QB1t89twITFHf97ZiREovw/view)" alt="Banner" style="width:100%;"/>
 
 # Hi, I'm Sadib Haque
 
