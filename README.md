@@ -3,22 +3,22 @@
 
 # 👋 Hi, I'm Sadib Haque
 
-## 💼 Frontend Developer
+## 💼 MERN Stack Developer
 
 ---
 
 ## 🧑‍💼 About Me
-I am a passionate Frontend Developer with a strong foundation in React.js and UI/UX design.  
-I enjoy building responsive and user-friendly web applications.  
-With experience in competitive programming, I approach problems logically and efficiently.  
-I'm always eager to learn emerging technologies and improve my workflow.
+I am a dedicated MERN Stack Developer with a passion for building full-stack web applications.  
+With a strong foundation in both frontend and backend technologies, I enjoy solving real-world problems.  
+My background in competitive programming enhances my problem-solving efficiency.  
+I continuously explore emerging tools and frameworks to stay ahead in the tech landscape.
 
 ---
 
 ## 🔄 Current Activities
-- 🚀 I am exploring **Next.js**
-- 🧭 I’m working on a **tourism website**
-- 🧠 Learning more about **AI-driven design and coding tools**
+- 🚀 Exploring **Next.js**
+- 🧭 Working on a **tourism website**
+- 🤖 Learning **AI-driven design and coding tools** to improve workflow
 
 ---
 
